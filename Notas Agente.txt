@@ -1,0 +1,6 @@
+
+
+
+ollama run deepseek-r1 -----> descargar dentro de la carpeta creada.
+
+pip install scholarly requests beautifulsoup4 
